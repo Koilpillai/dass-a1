@@ -1,0 +1,7 @@
+Felicity Event Management System - Deployment URLs
+====================================================
+
+Frontend (Vercel):  https://<your-vercel-app>.vercel.app
+Backend  (Render):  https://<your-render-service>.onrender.com
+
+----------------------------------------------------
